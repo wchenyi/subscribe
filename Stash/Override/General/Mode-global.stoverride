@@ -1,4 +1,4 @@
-#SUBSCRIBED 
+#SUBSCRIBED https://raw.githubusercontent.com/wchenyi/subscribe/main/Stash/Override/General/Mode-global.stoverride
 name: 全局模式
 desc: 以全局模式启动
 
